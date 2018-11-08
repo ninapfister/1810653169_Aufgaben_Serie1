@@ -7,5 +7,4 @@ public class NeueKlasse // der Name der Klasse wurde von uns selbst gewählt
         System.out.println("FH Kufstein Tirol"); // der Text der ausgegeben werden soll, sout danach tap und Text in Klammern schreiben
     }
 
-
 }
